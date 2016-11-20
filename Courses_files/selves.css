@@ -1,0 +1,59 @@
+/********** red yellow ******/
+.services{
+    background: #fafaf2;
+    padding: 26px 0;
+}
+.main-header .navbar-brand{
+    font-size: 2em;
+}
+.site-info{
+    padding: 15px 15px 5px;
+
+}
+.site-info p{
+    font-size: 15px !important;
+}
+.media-block{
+    font-size: 15px !important;
+    color: #df6e4c;
+}
+.media-icon{
+    font-size: 55px;
+    padding: 10px 10px 13px;
+    margin-bottom: 10px;
+    color: #ffec00;
+}
+.bg-og {
+    background-color: rgba(234, 18, 57, 0.85) !important;
+    color: #fff !important;
+}
+.bg-oga {
+    background-color: rgba(234, 86, 75, 0.85) !important;
+    color: #fff !important;
+}
+.bg-ogb {
+    background-color: rgba(234, 74, 22, 0.85) !important;
+    color: #fff !important;
+}
+.environment{
+    background: #ffffff;
+    padding: 26px 0;
+}
+@media (min-width: 768px){
+    .dl-horizontal dt {
+        float: left;
+        width: 4em;
+
+
+        overflow: hidden;
+        clear: left;
+        text-align: left;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .dl-horizontal dd {
+        margin-left: 4em;
+    }
+}
+/*
+*/
